@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Dheemant Pandey</h1>
-<h3 align="center">I am a Video Editor and a Fronend Developer from India.</h3>
+<h3 align="center">I am a Video Editor and a Frontend Developer from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheemantpandey&label=Profile%20views&color=8332a9&style=flat" alt="dheemantpandey" /> </p>
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VocXFpbTdsZ3BrYjgyNXc1aWUxcGRiYXFpNDU3MzRjc28zOWx6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 
