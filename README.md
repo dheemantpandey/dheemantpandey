@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheemantpandey&label=Profile%20views&color=8332a9&style=flat" alt="dheemantpandey" /> </p>
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VocXFpbTdsZ3BrYjgyNXc1aWUxcGRiYXFpNDU3MzRjc28zOWx6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 
-- 🌱 I’m currently learning **Power Bi**
+- 🌱 I’m currently learning **Power Bi and React.js**
 
 - 💬 Ask me about **My SQL | Video Editing | Photography | Photoshop**
 
